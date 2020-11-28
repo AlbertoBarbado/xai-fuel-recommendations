@@ -1,0 +1,5 @@
+time_tx,vehicle_id,variable_id,variable_value
+2020-10-31 00:02:34.073000+00:00,b123,EngineSpeed,1200
+2020-10-31 00:12:34.073000+00:00,b124,VehicleSpeed,55
+2020-10-31 01:12:34.073000+00:00,b125,EngineSpeed,1200
+2020-10-31 02:02:34.073000+00:00,b124,TripFuel,3.1
